@@ -88,7 +88,7 @@
 
 ## 5. Диаграмма прецедентов
 
-
+```plantuml
 @startuml
 left to right direction
 
@@ -118,3 +118,4 @@ note left of System
   <b>Вспомогательный исполнитель</b>
 end note
 @enduml
+```
