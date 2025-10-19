@@ -88,7 +88,7 @@
 
 ## 5. Диаграмма прецедентов
 
-```plantuml
+
 @startuml
 left to right direction
 
